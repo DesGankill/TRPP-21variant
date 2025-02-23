@@ -1,3 +1,6 @@
 File
 New string Roma Myznikov 
+<<<<<<< HEAD
 Dont commit this edit
+=======
+>>>>>>> origin/New_branch
